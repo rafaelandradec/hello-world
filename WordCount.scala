@@ -1,0 +1,5 @@
+package SparkApps
+
+object WordCount {
+
+}
